@@ -8,4 +8,4 @@ From the [website](projecteuler.net):
 
 ## Code
 
-Solutions to problems 1 through 7 are in Python while the solution to #8 is in Java.
+Solutions to problems 1 through 7 are written in Python while the solution to #8 is written in Java.
